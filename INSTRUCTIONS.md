@@ -27,7 +27,7 @@
 
 ## Tabla de la verdad
 
-| Entrada A | Entrada B | Entrada C | Entrada D | Salida |
+| Entrada A | Entrada B | Entrada C | Salida    | Salida |
 |-----------|-----------|-----------|-----------|--------|
 | 0         | 0         | 0         | ░0░       | ░0░    |
 | 0         | 0         | 1         | ░1░       | ░1░    |
